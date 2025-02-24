@@ -4,8 +4,8 @@ En este repositorio se encuentran los archivos dinde se evidencia la resolución
 ## Tabla de contenidos
 | Indice | Explicación  |
 |--|--|
-| .gitignore (PruebaGit/.gitignore) | Muestra los archivos que se deciden ocultar |
-| (PruebaGit/index.html)| Se evidencia la resolución de conflictos |
+| [.gitignore](https://github.com/Sarasofia1214/PruebaGit/blob/master/.gitignore)| Muestra los archivos que se deciden ocultar |
+| [index.html](https://github.com/Sarasofia1214/PruebaGit/blob/master/index.html)| Se evidencia la resolución de conflictos |
 
 
 ### Explicación
